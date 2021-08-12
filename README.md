@@ -1,5 +1,5 @@
 ### 🙋‍♂️ WELCOME!<br>
-💻 Student who is interested in `Software Development`<br>
+💻 Student who is interested in `Backend Development`<br>
 ✒️ MY [BLOG PAGE](https://yooniversal.github.io/)<br>
 
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=yooniversal" width="50%" height="180px">
