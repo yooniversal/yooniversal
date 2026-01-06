@@ -16,7 +16,7 @@ Hanyang University *(2020.03 ~ 2023.08)*<br>
 
 <br>
 
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=yooniversal&show_icons=true" width="50%" height="175px">
+<img align='left' src="https://github-readme-stats-fast.vercel.app/api?username=yooniversal&show_icons=true" width="50%" height="175px">
 
 <a href="https://solved.ac/caritas1996">
   <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=caritas1996" wieth="50%" height="175px">
