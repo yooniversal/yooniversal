@@ -16,4 +16,4 @@ Hanyang University *(2020.03 ~ 2023.08)*<br>
 
 <br>
 
-![boj-profile-caritas1996](https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=caritas1996)
+<img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=caritas1996" width="600">
