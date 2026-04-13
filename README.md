@@ -3,9 +3,7 @@
 ## 🙋‍♂️
 
 ### Junior Backend Developer
-✒️ MY [BLOG PAGE](https://yooniversal.github.io/)<br>
-
-[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=caritas1996)](https://solved.ac/caritas1996)
+[BLOG PAGE](https://yooniversal.github.io/)<br>
 
 <br>
 
